@@ -1,16 +1,16 @@
 {
-  "version": "0.8.3",
+  "version": "0.9.0",
   "description": "Infer types for SQL queries from the database itself",
   "homepage": "https://reylo.dev",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/reylosql/reylo/releases/download/v0.8.3/reylo-win32-x64.tar.gz",
-      "hash": "3e0fb28c7525904668ae7cf80c38d21ab0676a25ac8c71acc054fe7aa27d3861"
+      "url": "https://github.com/reylosql/reylo/releases/download/v0.9.0/reylo-win32-x64.tar.gz",
+      "hash": "e924b24f7968844c63062ee7eec4402267f3b046ce20e92d6a222acf7f904f9f"
     },
     "arm64": {
-      "url": "https://github.com/reylosql/reylo/releases/download/v0.8.3/reylo-win32-arm64.tar.gz",
-      "hash": "80e0cf5798cbecd3606cb0b125d625b1f343b661ae6b778a424399f6904ee3d0"
+      "url": "https://github.com/reylosql/reylo/releases/download/v0.9.0/reylo-win32-arm64.tar.gz",
+      "hash": "ebacb67fe7bb5db9747f77e8b14ba489c6a11b8a51168819f5931a700d7ac76b"
     }
   },
   "bin": "reylo.exe",
